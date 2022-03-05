@@ -1,0 +1,78 @@
+------------------------------------------------
+say -i -f path/to/file; #read a document aloud
+------------------------------------------------
+mv old-file new-file; #rename
+------------------------------------------------
+mv -v /path/to/original/* /path/to/new/; #move all
+------------------------------------------------
+open /path/to/Directory/; #open folder
+------------------------------------------------
+ln -s /path/to/original /path/to/link; #symlink
+------------------------------------------------
+chmod 755 YourScriptName; #make file executable
+------------------------------------------------
+. file.txt; #open file
+------------------------------------------------
+touch file.txt; #create files
+------------------------------------------------
+touch {1..10}.txt; #create multiple files
+------------------------------------------------
+mkdir ./; #create folder
+------------------------------------------------
+cp -R ./path/file ./newpath/file; #copy folder
+------------------------------------------------
+#user input
+echo "What Year where You Born?"
+read BirthYear
+echo "The Year You where Born is: $BirthYear"
+------------------------------------------------
+#hidden user input
+read -s password
+echo "You Entered: $password"
+------------------------------------------------
+#timed user input
+echo "Do You Have the Answer? (5sec to Respond)"
+read -t 5 timed
+echo "You Entered: $timed"
+------------------------------------------------
+#character user input
+read -n 1 char
+------------------------------------------------
+#limit characters
+echo "Entered 1 Character"
+read var
+if [ `echo $var | wc -c` -eq 2 ]
+then
+  echo "You Entered: $var"
+else
+  echo "Too Many Characters"
+fi
+------------------------------------------------
+#get list of usable voices
+say -v '?'
+------------------------------------------------
+#get list of usable file formats
+say --file-format=?
+------------------------------------------------
+#1 number User Input
+NUM="";
+while [[ ! $NUM =~ ^[0-9]{1} ]];
+do
+  say "Enter a Number 0 thru 9";
+  echo "Enter Number [0-9]";
+  read -n 1 NUM;
+done;
+say $NUM;
+echo;
+------------------------------------------------
+#1 letter User Input
+LET="";
+while [[ ! $LET =~ ^[a-z]{1} ]];
+do
+  say "Enter a Letter, a-z";
+  echo "Enter Letter: [a-z]";
+  read -n 1 LET;
+done;
+say $LET;
+echo;
+------------------------------------------------

@@ -1,0 +1,42 @@
+Project Type,Paths,Files
+*Root,/Users/icepitproductions/Desktop,
+Audio,/Users/icepitproductions/Desktop/audio,
+Audio,/Users/icepitproductions/Desktop/audio/imports,
+Audio,/Users/icepitproductions/Desktop/audio/archives,
+Audio,/Users/icepitproductions/Desktop/audio/archives/stems,
+Audio,/Users/icepitproductions/Desktop/audio/exports,
+Audio,/Users/icepitproductions/Desktop/audio/exports/final,
+Audio,/Users/icepitproductions/Desktop/audio/exports/unused,
+Image,/Users/icepitproductions/Desktop/img,
+Image,/Users/icepitproductions/Desktop/img/archives,
+Image,/Users/icepitproductions/Desktop/img/imports,
+Image,/Users/icepitproductions/Desktop/img/exports,
+Image,/Users/icepitproductions/Desktop/img/exports/advertisement,
+Image,/Users/icepitproductions/Desktop/img/exports/banner,
+Image,/Users/icepitproductions/Desktop/img/exports/cover,
+Image,/Users/icepitproductions/Desktop/img/exports/icon,
+Image,/Users/icepitproductions/Desktop/img/exports/logo,
+Docs,/Users/icepitproductions/Desktop/docs,
+Docs,/Users/icepitproductions/Desktop/docs,README.md
+Docs,/Users/icepitproductions/Desktop/docs,sample_cue_points.txt
+Docs,/Users/icepitproductions/Desktop/docs/biz cards,
+Docs,/Users/icepitproductions/Desktop/docs/contract,
+Docs,/Users/icepitproductions/Desktop/docs/contract,client_email.csv
+Docs,/Users/icepitproductions/Desktop/docs/contract,client_notes.csv
+Docs,/Users/icepitproductions/Desktop/docs/contract,changelog.log
+Video,/Users/icepitproductions/Desktop/videos,
+Video,/Users/icepitproductions/Desktop/videos/archives,
+Video,/Users/icepitproductions/Desktop/videos/exports,
+Video,/Users/icepitproductions/Desktop/videos/exports/advertisement,
+Video,/Users/icepitproductions/Desktop/videos/exports/banner,
+Video,/Users/icepitproductions/Desktop/videos/exports/music video,
+Video,/Users/icepitproductions/Desktop/videos/exports/trailer,
+Video,/Users/icepitproductions/Desktop/videos/imports,
+Web,/Users/icepitproductions/Desktop/web,
+Web,/Users/icepitproductions/Desktop/web,index.html
+Web,/Users/icepitproductions/Desktop/web/css,
+Web,/Users/icepitproductions/Desktop/web/css/scss,
+Web,/Users/icepitproductions/Desktop/web/img,
+Web,/Users/icepitproductions/Desktop/web/pages,
+Web,/Users/icepitproductions/Desktop/web/pages/bookmarks,
+Web,/Users/icepitproductions/Desktop/web/scripts,

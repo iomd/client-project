@@ -1,0 +1,31 @@
+Directory Type,Directory Name,Directory Path,SymLink Locations,SymLink,Alias
+Music Libraries,Music,/Users/icepitproductions/Music,/Users/icepitproductions/Desktop,FALSE,TRUE
+,_Client Library_,TOSHIBA EXT/_Client Library_,/Users/icepitproductions/Music,TRUE,FALSE
+,iTunes,MUSIC HD 2/,/Users/icepitproductions/Music,TRUE,FALSE
+,_Serato_,MUSIC HD 2/,/Users/icepitproductions/Music,TRUE,FALSE
+,_Serato_Backup,MUSIC HD 2/,,FALSE,FALSE
+Sample Libraries,Splice,1TB XHD/,/Users/icepitproductions/Music,TRUE,FALSE
+,LoopCloud,1TB XHD/,/Users/icepitproductions/Library,TRUE,FALSE
+,Ableton,1TB XHD/,/Users/icepitproductions/Music,TRUE,FALSE
+,Downloaded Packs (_DRUMKITS_),1TB XHD/,/Users/icepitproductions/Music,TRUE,FALSE
+,Apple/Logic Libraries,1TB XHD/,/Users/icepitproductions/Music,TRUE,FALSE
+,StudioOne Libraries,,,FALSE,FALSE
+,DAW Snippets & Stems,,,FALSE,FALSE
+,MPC Beats,,,FALSE,FALSE
+,Serato Studio,,,FALSE,FALSE
+Misc Libraries,Massive Presets,Massive Presets,/Users/icepitproductions/Documents/Native Instruments/Massive/Sounds,FALSE,FALSE
+,Kontakt,Kontakt,,FALSE,FALSE
+,Serum Presets,Serum Presets,/Library/Audio/Presets/Xfer Records/Serum Presets/Presets/User,FALSE,FALSE
+,Serum LFO Shapes,Serum LFO Shapes,/Library/Audio/Presets/Xfer Records/Serum Presets/LFO Shapes/User,FALSE,FALSE
+,Sylenth Presets,Sylenth Presets,/Users/icepitproductions/Library/Application Support/LennarDigital/Sylenth1/Presets,FALSE,FALSE
+,Sylenth Banks,Sylenth Banks,/Users/icepitproductions/Library/Application Support/LennarDigital/Sylenth1/SoundBanks,FALSE,FALSE
+,Ableton Presets (shortcut to all),Ableton Presets (shortcut to all),,FALSE,FALSE
+,DAW/Controller/Equipment Docs & Setups,DAW/Controller/Equipment Docs & Setups,,FALSE,FALSE
+,Catalog,1TB XHD/,,FALSE,FALSE
+,Installers,,,FALSE,FALSE
+,Lost Audio,1TB XHD/,,FALSE,FALSE
+,Omnisphere,,/Users/icepitproductions/Library/Application/Support/Spectrasonics,FALSE,FALSE
+,XLN Audio XO,,,FALSE,FALSE
+,Blend,,,FALSE,FALSE
+,MIDI,,,FALSE,FALSE
+,Templates,,,FALSE,FALSE
