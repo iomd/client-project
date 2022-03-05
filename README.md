@@ -31,7 +31,15 @@
 
 ## usage
 
+To Run the App from terminal, run this code.  Follow the Terminal Menu's instructions.
+
+```bash
+python3 new_client_project.py
+```
+
 - audio project
+
+  To Produce a Beat, follow the Terminal Menu's instructions.
   - produce
     ![run](assets/images/readme/run.png)
     ![main menu](assets/images/readme/main_menu.png)
