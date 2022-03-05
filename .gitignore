@@ -396,3 +396,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# manual ignores
+/lib
+/apps
+/other
+archive

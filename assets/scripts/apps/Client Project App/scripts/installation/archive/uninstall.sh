@@ -1,1 +1,0 @@
-# script used to uninstall libraries into system
