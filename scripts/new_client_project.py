@@ -81,19 +81,21 @@ while loop:
                 ).show()]
 
             if choice == "[1] Produce":
+                # Metadata
                 producer_name = input("Producer Name  : ")
                 project_name = input("Title          : ")
                 tempo = input("BPM            : ")
-
                 type = "Beat - " + producer_name + " - "
 
+                # Path
                 directory = (type + project_name + suffix)
-
                 path = os.path.join(parent_dir, directory)
                 print(choice + " % s 'on Desktop' " % directory)
 
+                # Command
                 os.makedirs(path)
 
+                # Exit
                 sub_loop = False
                 loop = False
 
