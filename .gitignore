@@ -398,7 +398,4 @@ FodyWeavers.xsd
 *.sln.iml
 
 # manual ignores
-/lib
-/apps
-/other
 archive
