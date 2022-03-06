@@ -2,9 +2,9 @@
 """ terminal-menu-version.py
 :Run: cd ~/client-project/client-project/scripts/;clear;pwd;ls .;python3 terminal-menu-version.py;
 """
-
 """ :To Do:
 - add open app/template commands for each option
+- add search for files
 - Play Music On Start
 - fix from simple_term_menu import TerminalMenu
 - fix from pkg_resources import Requirement
@@ -13,61 +13,31 @@
 import os
 import subprocess
 from simple_term_menu import TerminalMenu
-from pkg_resources import Requirement
+# from pkg_resources import Requirement
+
 subprocess.run('clear')
 os.chdir("/Users/icepitproductions/Documents/GitHub/Projects/python/client-project")
 current_dir = os.getcwd()
 print(os.getcwd())
 subprocess.run('ls')
-suffix = " Project"
 parent_dir = "/Users/icepitproductions/Desktop"
+print(parent_dir)
+print(os.listdir(parent_dir))
 '''User Input'''
+suffix = " Project"
 Project_Name = input("Enter Project Name?")
-'''Root_Folder'''
+'''Folders'''
 Project_Path = ("/Users/icepitproductions/Desktop")
 directory = (Project_Path + "/" + Project_Name)
 Root_Folder = os.path.join(directory)
-
-os.makedirs(Root_Folder)
-'''Sub Folders'''
 folder_1 = ("/audio")
-os.makedirs(Root_Folder + folder_1)
 folder_2 = ("/archives")
-os.makedirs(Root_Folder + folder_2)
 folder_3 = ("/imports")
-os.makedirs(Root_Folder + folder_3)
 folder_4 = ("/exports")
-os.makedirs(Root_Folder + folder_4)
 folder_5 = (folder_2 + "/stems")
-os.makedirs(Root_Folder + folder_5)
 folder_6 = (folder_4 + "/final")
-os.makedirs(Root_Folder + folder_6)
 folder_7 = (folder_4 + "/unused")
-os.makedirs(Root_Folder + folder_7)
-'''Files'''
-os.chdir(Root_Folder + folder_1)
-with open("text.txt", "w") as f:
-  f.write("This is a text file.")
-os.chdir(Root_Folder + folder_2)
-with open("text.txt", "w") as f:
-  f.write("This is a text file.")
-os.chdir(Root_Folder + folder_3)
-with open("text.txt", "w") as f:
-  f.write("This is a text file.")
-os.chdir(Root_Folder + folder_4)
-with open("text.txt", "w") as f:
-  f.write("This is a text file.")
-os.chdir(Root_Folder + folder_5)
-with open("text.txt", "w") as f:
-  f.write("This is a text file.")
-os.chdir(Root_Folder + folder_6)
-with open("text.txt", "w") as f:
-  f.write("This is a text file.")
-os.chdir(Root_Folder + folder_7)
-with open("text.txt", "w") as f:
-  f.write("This is a text file.")
-
-
+'''file contents'''
 '''menu options list'''
 main_menu = [
   "[a] audio project",
@@ -107,24 +77,40 @@ while loop:
             if choice == "[1] Produce":
                 '''Metadata'''
                 producer_name = input("Producer Name  : ")
-                # Project_Name = input("Title          : ")
-                tempo = input("BPM            : ")
                 type = "Beat - " + producer_name + " - "
-                
-                
-                
                 '''Path'''
                 directory = (type + Project_Name + suffix)
                 path = os.path.join(parent_dir, directory)
                 print(choice + " % s 'on Desktop' " % directory)
-                
-                
-                
-                '''Command'''
-                os.makedirs(path)
-                
-                
-                
+                '''Create Directories & Files'''
+                os.makedirs(Root_Folder + folder_1)
+                os.makedirs(Root_Folder + folder_2)
+                os.makedirs(Root_Folder + folder_3)
+                os.makedirs(Root_Folder + folder_4)
+                os.makedirs(Root_Folder + folder_5)
+                os.makedirs(Root_Folder + folder_6)
+                os.makedirs(Root_Folder + folder_7)
+                os.chdir(Root_Folder + folder_1)
+                with open("text.txt", "w") as f:
+                  f.write("This is a text file.")
+                os.chdir(Root_Folder + folder_2)
+                with open("text.txt", "w") as f:
+                  f.write("This is a text file.")
+                os.chdir(Root_Folder + folder_3)
+                with open("text.txt", "w") as f:
+                  f.write("This is a text file.")
+                os.chdir(Root_Folder + folder_4)
+                with open("text.txt", "w") as f:
+                  f.write("This is a text file.")
+                os.chdir(Root_Folder + folder_5)
+                with open("text.txt", "w") as f:
+                  f.write("This is a text file.")
+                os.chdir(Root_Folder + folder_6)
+                with open("text.txt", "w") as f:
+                  f.write("This is a text file.")
+                os.chdir(Root_Folder + folder_7)
+                with open("text.txt", "w") as f:
+                  f.write("This is a text file.")
                 '''Exit'''
                 sub_loop = False
                 loop = False
