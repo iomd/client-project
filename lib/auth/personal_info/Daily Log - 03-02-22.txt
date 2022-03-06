@@ -1,8 +1,0 @@
-Daily Log: 03-02-22
-
-- Made logo
-- Made icons
-- Made automator quick action to create assorted icon sizes (16, 24, 32, 48, 64, 128, 256, 512)
-- Downloaded content from YouTube via ytPlaylistDL.py. Also Made Playlists for the content. I deleted the playlists fron YouTube.
-- Started building my ytPlaylistDL App. Needs `bash script` & `python script` to merge into a `bundled app`.
-
