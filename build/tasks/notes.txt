@@ -1,0 +1,95 @@
+# CLIENT PROJECT/SESSION
+
+- [CLIENT PROJECT/SESSION](#client-projectsession)
+  - [TO DO](#to-do)
+  - [PROJECT TYPES](#project-types)
+    - [AUDIO](#audio)
+      - [> PRODUCE <](#-produce-)
+      - [> RECORD <](#-record-)
+      - [> MIX & MASTER <](#-mix--master-)
+    - [DOCS](#docs)
+    - [IMAGE](#image)
+    - [VIDEO](#video)
+    - [WEB](#web)
+
+---
+
+## TO DO
+
+- [ ] play `music` on *startup* of app
+- [ ] add `new` or `old` menu as `2nd` menu for ***`each`*** main menu choice
+  - [ ] old:
+    - [ ] add `search` for files to find old folder for old project
+  - [ ] new:
+    - [ ] add `create` *NEW FOLDER* "or" `copy` from *TEMPLATE FOLDER*
+    - [ ] add `open` app/template commands
+- [ ]
+
+---
+
+[>>> back to top <<<](#client-projectsession)
+
+---
+
+## PROJECT TYPES
+
+### AUDIO
+
+#### > PRODUCE <
+
+- [x] Date      :
+- [x] Producer  :
+- [x] Title     :
+- [ ] Project_Folder_Name
+
+#### > RECORD <
+
+- [ ] Date      :
+- [ ] Artist    :
+- [ ] Title     :
+- [ ] Project_Folder_Name
+
+#### > MIX & MASTER <
+
+- [ ] Date      :
+- [ ] Artist    :
+- [ ] Title     :
+- [ ] Project_Folder_Name
+
+---
+
+[>>> back to top <<<](#client-projectsession)
+
+---
+
+### DOCS
+
+---
+
+[>>> back to top <<<](#client-projectsession)
+
+---
+
+### IMAGE
+
+---
+
+[>>> back to top <<<](#client-projectsession)
+
+---
+
+### VIDEO
+
+---
+
+[>>> back to top <<<](#client-projectsession)
+
+---
+
+### WEB
+
+---
+
+[>>> back to top <<<](#client-projectsession)
+
+---

@@ -1,6 +1,6 @@
-# import os
+# os commands
 
-os commands
+import os
 
 - CLD_CONTINUED
 - CLD_DUMPED

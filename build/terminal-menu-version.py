@@ -1,31 +1,29 @@
-######## code-start ########
-""" terminal-menu-version.py
-:Run: cd ~/client-project/client-project/scripts/;clear;pwd;ls .;python3 terminal-menu-version.py;
-"""
-""" :To Do:
-- add open app/template commands for each option
-- add search for files
-- Play Music On Start
-- fix from simple_term_menu import TerminalMenu
-- fix from pkg_resources import Requirement
-"""
-'''SETUP'''
-import os
-import subprocess
+# /usr/bin/python3
+# terminal-menu-version.py
+# -----imports---------------------------
+import os,subprocess
 from simple_term_menu import TerminalMenu
-# from pkg_resources import Requirement
-
+""" SETUP
+clear;
+cd /Users/icepitproductions/GitHub/Projects/python/client-project/build;
+pwd;
+python3 terminal-menu-version.py;
+"""
+######## code-start ########
 subprocess.run('clear')
-os.chdir("/Users/icepitproductions/Documents/GitHub/Projects/python/client-project")
+Desktop = "~/Desktop"
+# print(Desktop)
+# print(os.listdir(Desktop))
+os.chdir("/Users/icepitproductions/GitHub/Projects/python/client-project/build")
 current_dir = os.getcwd()
 print(os.getcwd())
-subprocess.run('ls')
-parent_dir = "/Users/icepitproductions/Desktop"
-print(parent_dir)
-print(os.listdir(parent_dir))
+
+
 '''User Input'''
 suffix = " Project"
 Project_Name = input("Enter Project Name?")
+
+
 '''Folders'''
 Project_Path = ("/Users/icepitproductions/Desktop")
 directory = (Project_Path + "/" + Project_Name)
@@ -37,7 +35,15 @@ folder_4 = ("/exports")
 folder_5 = (folder_2 + "/stems")
 folder_6 = (folder_4 + "/final")
 folder_7 = (folder_4 + "/unused")
+
+
+
+
 '''file contents'''
+
+
+
+
 '''menu options list'''
 main_menu = [
   "[a] audio project",
@@ -51,6 +57,10 @@ audio_project_menu = [
   "[2] Record",
   "[3] Mix & Master",
   "[q] Go Back"]
+
+
+
+
 '''show menu options list'''
 loop = True
 while loop:
@@ -62,6 +72,10 @@ while loop:
         menu_highlight_style = ("fg_black", "bg_green"),
         menu_cursor = "~"
         ).show()]
+
+
+
+
     '''tasks'''
     if choice == "[a] audio project":
         sub_loop = True
@@ -75,13 +89,25 @@ while loop:
                 menu_cursor = "🔊"
                 ).show()]
             if choice == "[1] Produce":
+
+
+
+
                 '''Metadata'''
                 producer_name = input("Producer Name  : ")
                 type = "Beat - " + producer_name + " - "
+
+
+
+
                 '''Path'''
                 directory = (type + Project_Name + suffix)
-                path = os.path.join(parent_dir, directory)
+                path = os.path.join(Desktop, directory)
                 print(choice + " % s 'on Desktop' " % directory)
+
+
+
+
                 '''Create Directories & Files'''
                 os.makedirs(Root_Folder + folder_1)
                 os.makedirs(Root_Folder + folder_2)
@@ -111,6 +137,10 @@ while loop:
                 os.chdir(Root_Folder + folder_7)
                 with open("text.txt", "w") as f:
                   f.write("This is a text file.")
+
+
+
+
                 '''Exit'''
                 sub_loop = False
                 loop = False
@@ -119,7 +149,7 @@ while loop:
                 Project_Name = input("Title          : ")
                 type = "Song - " + artist_name + " - "
                 directory = (type + Project_Name + suffix)
-                path = os.path.join(parent_dir, directory)
+                path = os.path.join(Desktop, directory)
                 print(choice + " % s 'on Desktop'" % directory)
                 os.makedirs(path)
                 sub_loop = False
