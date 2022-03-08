@@ -1,1 +1,0 @@
-clear;echo -e "Email: ice.fetty@gmail.com \nHomepage: http:// \nGitHub: http:// \nYouTube: http:// \nReddit: http:// \nTwitter: http://" |lolcat -a -d 6;figlet -f cybermedium "Icepit Productions";sleep 0.3;date;sleep 0.3;echo "";pwd;ls -lF;

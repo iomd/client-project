@@ -1,5 +1,0 @@
-clear;whoami;date;pwd;echo "";ls -laF .;echo "";
-
-3
-4
-5
