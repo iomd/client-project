@@ -1,5 +1,6 @@
 # CLIENT PROJECT/SESSION
 
+
 - [CLIENT PROJECT/SESSION](#client-projectsession)
   - [TO DO](#to-do)
   - [PROJECT TYPES](#project-types)
@@ -34,6 +35,8 @@
 ## PROJECT TYPES
 
 ### AUDIO
+
+client_name/song_title
 
 #### > PRODUCE <
 

@@ -1,16 +1,13 @@
 # client-project
 
 [Full Tutorial on using the "Client-Project App"](https://www.youtube.com/channel/UCuKlAHcp9w5KJ9IxVg3Vm8g/channels)
-
 <!-- Add Badges -->
 ![reddit](https://img.shields.io/reddit/user-karma/combined/iomd?style=social)
 ![twitter](https://img.shields.io/twitter/follow/IceOnDaMixDown?style=social)
 ![youtube](https://img.shields.io/youtube/channel/views/UCuKlAHcp9w5KJ9IxVg3Vm8g?style=social)
 ![github](https://img.shields.io/github/followers/iomd?style=social)
-
 <!-- Add Pictures -->
 ![banner](assets/images/readme/banner.png)
-
 <!-- Table of Contents -->
 - [client-project](#client-project)
   - [description](#description)
