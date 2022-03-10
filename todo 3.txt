@@ -1,0 +1,10 @@
+## TO DO
+
+- [ ] changelog generator
+- [ ] play `music` on *startup* of app
+- [ ] add `new` or `old` menu as `2nd` menu for ***`each`*** main menu choice
+  - [ ] old:
+    - [ ] add `search` for files to find old folder for old project
+  - [ ] new:
+    - [ ] add `create` *NEW FOLDER* "or" `copy` from *TEMPLATE FOLDER*
+    - [ ] add `open` app/template commands

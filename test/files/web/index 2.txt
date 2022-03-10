@@ -1,0 +1,4 @@
+file6 = ("index.html")
+fil6contents = (
+  "test"
+  )
