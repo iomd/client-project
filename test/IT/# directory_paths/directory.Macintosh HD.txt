@@ -1,0 +1,21 @@
+# hard drive storage :
+    +Macintosh HD                                   /*internal drive*/
+        Applications
+            PHOTO & VIDEO APPS
+                Browser
+                    Adobe Bridge
+                Image
+                    Adobe Photoshop
+                    GIMP
+                    iPhoto
+                    Candybar
+                Video timeline
+                    Adobe After Effects
+                    Adobe Premiere
+                    Final Cut
+                    iMovie
+                    Vegas Movie Studio
+        Documents
+            Developement Projects
+    /* GOAL: symlink if nessessary */
+    /* GOAL: MOVE ALL FILES TO EXTERNAL DRIVES */

@@ -1,0 +1,29 @@
+$Page Scale
+$TargetName Scale
+-> $Link *Glossary*<GotoPage:Home>
+
+*Scale*
+-> 01A - G# Minor
+-> 02A - D# Minor
+-> 03A - A# Minor
+-> 04A - F Minor
+-> 05A - C Minor
+-> 06A - G Minor
+-> 07A - D Minor
+-> 08A - A Minor
+-> 09A - E Minor
+-> 11A - F# Minor
+-> 12A - C# Minor
+-> 01B - B Major
+-> 02B - F# Major
+-> 03B - C# Major
+-> 04B - G# Major
+-> 05B - D# Major
+-> 06B - A# Major
+-> 07B - F Major
+-> 08B - C Major
+-> 09B - G Major
+-> 10A - B Minor
+-> 10B - D Major
+-> 11B - A Major
+-> 12B - E Major

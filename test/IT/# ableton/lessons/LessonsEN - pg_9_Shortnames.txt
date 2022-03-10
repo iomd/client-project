@@ -1,0 +1,20 @@
+$Page Short names
+$TargetName Shortnames
+-> $Link *Glossary*<GotoPage:Home>
+
+*Short names*
+1. smp
+2. gtr
+3. key
+4. syn
+5. wnd
+6. str
+7. brs
+8. bas
+9. kik
+10. clp
+11. snr
+12. prc
+13. cym
+14. fx
+15. voc

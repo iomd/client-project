@@ -1,0 +1,10 @@
+$Page Reference
+$TargetName Reference
+-> $Link *Glossary*<GotoPage:Home>
+
+*Reference*
+A Track built for stream recording “Reference Songs” to playback at a specified Tempo.
+Drag multiple reference songs and map out the arrangement with markers or MIDI clips. The visual timeline will help your brain understand how a lot of these producers are arranging their projects!
+Listen to your song in mono, drag an EQ and take out the low end, take out the high end, use a bandpass filter, or listen to the song while watching a spectrum analyzer.
+Don’t reinvent the wheel. Use what has been shown to work countless times before.
+Study arrangements from professional tracks and you will notice tons of similarities.

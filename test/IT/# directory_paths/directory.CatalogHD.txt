@@ -1,0 +1,14 @@
+# hard drive storage :
+    +CatalogHD                                      /*audio projects*/
+        audio
+            lost
+            genre
+                grouping
+                    mood
+                        bpm
+                            key         
+        projects
+            my projects
+                beats
+    /* GOAL: symlink if nessessary */
+    /* GOAL: MOVE ALL FILES TO EXTERNAL DRIVES */

@@ -1,0 +1,223 @@
+$Page Icepit Productions
+$TargetName Home
+*This Lesson include topics of:*
+-> $Link *Required Plugins*<GotoPage:Requiredplugins>
+-> $Link *Scale*<GotoPage:Scale>
+-> $Link *Reference*<GotoPage:Reference>
+-> $Link *Recording*<GotoPage:Recording>
+-> $Link *Mastering*<GotoPage:Mastering>
+-> $Link *Loudness*<GotoPage:Loudness>
+-> $Link *Stems & Trackouts*<GotoPage:Stems>
+-> $Link *Short Names*<GotoPage:Shortnames>
+-> $Link *Program Change*<GotoPage:Programchange>
+
+*Social Media:*
+-> $Link Twitter <http://www.twitter.com/IceOnDaMixDown>
+-> $Link Instagram <http://www.instagram.com/mad_scientice/>
+-> $Link Soundcloud <http://www.soundcloud.com/iceondamixdown>
+-> $Link Youtube <http://www.youtube.com/channel/UCuKlAHcp9w5KJ9IxVg3Vm8g>
+
+$Page Required Plugins
+$TargetName Requiredplugins
+-> $Link *Glossary*<GotoPage:Home>
+
+*Required Plugins*
+Stock:
+->
+3rd Party:
+->
+
+$Page Scale
+$TargetName Scale
+-> $Link *Glossary*<GotoPage:Home>
+
+*Scale*
+-> 01A - G# Minor
+-> 02A - D# Minor
+-> 03A - A# Minor
+-> 04A - F Minor
+-> 05A - C Minor
+-> 06A - G Minor
+-> 07A - D Minor
+-> 08A - A Minor
+-> 09A - E Minor
+-> 11A - F# Minor
+-> 12A - C# Minor
+-> 01B - B Major
+-> 02B - F# Major
+-> 03B - C# Major
+-> 04B - G# Major
+-> 05B - D# Major
+-> 06B - A# Major
+-> 07B - F Major
+-> 08B - C Major
+-> 09B - G Major
+-> 10A - B Minor
+-> 10B - D Major
+-> 11B - A Major
+-> 12B - E Major
+
+$Page Reference
+$TargetName Reference
+-> $Link *Glossary*<GotoPage:Home>
+
+*Reference*
+A Track built for stream recording “Reference Songs” to playback at a specified Tempo.
+Drag multiple reference songs and map out the arrangement with markers or MIDI clips. The visual timeline will help your brain understand how a lot of these producers are arranging their projects!
+Listen to your song in mono, drag an EQ and take out the low end, take out the high end, use a bandpass filter, or listen to the song while watching a spectrum analyzer.
+Don’t reinvent the wheel. Use what has been shown to work countless times before.
+Study arrangements from professional tracks and you will notice tons of similarities.
+
+$Page Recording
+$TargetName Recording
+-> $Link *Glossary*<GotoPage:Home>
+
+*Recording*
+Vocal Tracking Compression
+-> 3:1	Ratio
+-> 1s	Attack
+-> 1s	Release
+-> -7	Range
+
+$Page Mastering
+$TargetName Mastering
+-> $Link *Glossary*<GotoPage:Home>
+
+*Mastering*
+-> $Link *Platform Loudness*<GotoPage:Loudness>
+LUFS, True Peak, Dynamic Range
+-> $Link *Stems & Trackouts*<GotoPage:Stems>
+Gang of Four, Descrete
+-> $Link *Short Names*<GotoPage:Shortnames>
+kik, snr, etc.
+
+$Page Loudness
+$TargetName Loudness
+-> $Link *Glossary*<GotoPage:Home>
+
+*Loudness Platforms*
+Club Play
+-> -0.1 dBTP
+-> -6 to -9 LUFS
+-> >8DR
+Soundcloud
+-> -1.0 dBTP
+-> -8 to -13 LUFS
+-> >9DR
+-> Supports WAV, FLAC, AIFF, ALAC, MP3, AAC, Ogg / Vorbis, MP4, MP2, M4A, 3GP, 3G2, MJ2, AMR and WMA Recommends using WAV (16 and 24 bits), FLAC, AIFF or ALAC
+-> -1dBTP mastering for Soundcloud. -7 LUFS short-term.
+CD
+-> -0.1 dBTP
+-> >-9 LUFS
+-> >9DR
+Amazon Music
+-> -2.0dBTP
+-> -9 to -13 LUFS
+-> >9DR
+Spotify Loud
+-> -2.0 dBTP
+-> -11 LUFS
+-> >9DR
+Youtube
+-> -1.0 dBTP
+-> -13 to -15 LUFS
+-> >9DR
+-> Stereo MP3 (in MP3/WAV container), PCM (in WAV container), AAC (in MOV container), FLAC audio.
+-> Minimum audio bitrate for lossy formats: 64 kbps
+Spotify
+-> -1.0 dBTP
+-> -14 LUFS
+-> >9DR
+-> Accepts stereo FLAC or WAV. All files are converted to WAV (44.1 kHz) and transcoded into one of the following:
+-> Ogg/Vorbis (96, 160 or 320 kbps) – AAC (128 or 256 kbps) – HE-AACv2 (24 kbps)
+Deezer
+-> -1.0 dBTP
+-> -14 to -16 LUFS
+-> >9DR
+Apple Music
+-> -1.0 dBTP
+-> -16 LUFS(±1.0 LU)
+-> >9DR
+Apple Podcasts
+-> -1.0 dBTP
+-> -16 LUFS(±1.0 LU)
+-> >9DR
+Pandora Premium
+-> AAC+ (32 kbps or 64 kbps) MP3 (192 kbps)
+Apple Music
+-> AAC (256 kbps)
+TIDAL HiFi
+-> Master Quality – Partnership with MQA (Master Quality Authenticated) delivering audio masters from 44.1 kHz / 16 bits, to 96 kHz / 24 bits (in some cases 192 kHz) between 2304 and 9216 kbps
+-> HiFi – FLAC (44.1 kHz / 16 bits) at 1411 kbps
+-> Standard – AAC (320 kbps)
+
+$Page Stems
+$TargetName Stems
+-> $Link *Glossary*<GotoPage:Home>
+
+*Stems:* Gang Of Four or Descrete
+Gang Of Four:  
+1. all instruments and background vocals  
+2. lead vocal(s)  
+3. full mix  
+4. instrumental
+Descrete:  
+1. kick  
+2. snare  
+3. rest of the drum kit  
+4. bass  
+5. electric guitars  
+6. acoustic guitars  
+7. piano  
+8. rest of the keyboards or strings/brass  
+9. lead vocal  
+10. background vocals  
+11. everything other instrument  
+12. key effects (e.g. if you used your favorite reverb processor on the vocal, this stem could be a track of just that reverb return)
+
+$Page Short names
+$TargetName Shortnames
+-> $Link *Glossary*<GotoPage:Home>
+
+*Short names*
+1. smp
+2. gtr
+3. key
+4. syn
+5. wnd
+6. str
+7. brs
+8. bas
+9. kik
+10. clp
+11. snr
+12. prc
+13. cym
+14. fx
+15. voc
+
+$Page Program Change
+$TargetName Programchange
+-> $Link *Glossary*<GotoPage:Home>
+
+Bank
+Sub
+Program
+The General MIDI Level 1 instrument sounds are grouped by families. In each family are 8 specific instruments.
+PC#		Family Name
+-> 1-8		Piano
+-> 9-16	Chromatic
+-> 17-24	Organ
+-> 25-32	Guitar
+-> 33-40	Bass
+-> 41-48	Strings
+-> 49-56	Ensemble
+-> 57-64	Brass
+-> 65-72	Reed
+-> 73-80	Pipe
+-> 81-88	Lead
+-> 89-96	Pad
+-> 97-104	Effects
+-> 105-112	Ethnic
+-> 113-120	Percussive
+-> 121-128	SFX

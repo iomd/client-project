@@ -1,0 +1,14 @@
+3 LEVELS OF SAMPLING
+    Lvl 1
+        Chopping
+        Pitching
+        Re-arranging
+        Light fx processing
+    Lvl 2
+        Time stretching
+        Reversing
+        Medium fx processing
+    Lvl 3
+        Granular synthesis
+        Heavy transient/waveshaping
+        Extreme fx procession

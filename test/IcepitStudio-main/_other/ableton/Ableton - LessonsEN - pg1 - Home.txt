@@ -1,0 +1,18 @@
+$Page Icepit Productions
+$TargetName Home
+*This Lesson include topics of:*
+-> $Link *Required Plugins*<GotoPage:Requiredplugins>
+-> $Link *Scale*<GotoPage:Scale>
+-> $Link *Reference*<GotoPage:Reference>
+-> $Link *Recording*<GotoPage:Recording>
+-> $Link *Mastering*<GotoPage:Mastering>
+-> $Link *Loudness*<GotoPage:Loudness>
+-> $Link *Stems & Trackouts*<GotoPage:Stems>
+-> $Link *Short Names*<GotoPage:Shortnames>
+-> $Link *Program Change*<GotoPage:Programchange>
+
+*Social Media:*
+-> $Link Twitter <http://www.twitter.com/IceOnDaMixDown>
+-> $Link Instagram <http://www.instagram.com/mad_scientice/>
+-> $Link Soundcloud <http://www.soundcloud.com/iceondamixdown>
+-> $Link Youtube <http://www.youtube.com/channel/UCuKlAHcp9w5KJ9IxVg3Vm8g>

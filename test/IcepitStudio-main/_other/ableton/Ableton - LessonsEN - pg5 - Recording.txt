@@ -1,0 +1,10 @@
+$Page Recording
+$TargetName Recording
+-> $Link *Glossary*<GotoPage:Home>
+
+*Recording*
+Vocal Tracking Compression
+-> 3:1	Ratio
+-> 1s	Attack
+-> 1s	Release
+-> -7	Range

@@ -1,0 +1,5 @@
+# mac junk files locations :
+    /Library/Caches
+    /Library/StartupItems
+    /Users/icepitproductions/Library/Caches
+    /Users/icepitproductions/Library/Cookies

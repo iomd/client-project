@@ -1,0 +1,9 @@
+# directory coding
+    _Client_
+        /%conductor%/%albumArtist%/%genre%/%year%/%artist%/%bpm%/%key
+    _Instrumentals_
+        /%composer%/%year%
+    _Music_
+        /%genre%/%year%/%artist%/%bpm%/%key
+    AUDIO CATEGORIES
+        /genre%/%grouping%/%mood%/%bpm%/%key

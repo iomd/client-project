@@ -1,8 +1,25 @@
 {
 	"folders": [
 		{
+			// "name": "projects",
 			"path": "."
-		}
+		},
+		{
+			"name": "#Client",
+			"path": "../../../../Volumes/ClientHD"
+		},
+		{
+			"name": "#Templates",
+			"path": "../../Templates"
+		},
+		{
+			"name": "#bin",
+			"path": "../../bin"
+		},
+
 	],
-	"settings": {}
+	"settings": {
+		"svn.ignoreMissingSvnWarning": true,
+		"liveServer.settings.multiRootWorkspaceName": "#client-project"
+	}
 }

@@ -1,0 +1,6 @@
+Default Set: 
+Sample Editor: 
+Temporary Folder: 
+Max App: 
+Cashe Folder: 
+Plug-in:

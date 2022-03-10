@@ -1,0 +1,70 @@
+# hard drive storage :
+    +Macintosh HD                                   /*internal drive*/
+        Applications
+            PHOTO & VIDEO APPS
+                Browser
+                    Adobe Bridge
+                Image
+                    Adobe Photoshop
+                    GIMP
+                    iPhoto
+                    Candybar
+                Video timeline
+                    Adobe After Effects
+                    Adobe Premiere
+                    Final Cut
+                    iMovie
+                    Vegas Movie Studio
+        Documents
+            Developement Projects
+    +MovieHD                                        /*photo projects & video projects*/
+        img
+        vid
+        projects
+    +MusicHD                                        /*music*/
+        industry
+            genre
+                year
+                    artist
+                        bpm
+                            key
+        client
+            engineer
+                album artist
+                    genre
+                        year
+                            artist
+                                bpm
+                                    key
+        instrumental
+            producer
+                year
+    +ClientHD                                       /*client projects*/
+        0 UNSORTED
+        1 BANDS
+            bandname
+                00_PLAYLISTS
+                01_GFX&FOOTAGE
+                02_ARCHIVE
+                03_SESSIONS
+                04_PRESETS
+        2 SOLO ARTIST
+            artistname
+                00_PLAYLISTS
+                01_GFX&FOOTAGE
+                02_ARCHIVE
+                03_SESSIONS
+                04_PRESETS
+    +CatalogHD                                      /*audio projects*/
+        audio
+            lost
+            genre
+                grouping
+                    mood
+                        bpm
+                            key         
+        projects
+            my projects
+                beats
+    /* GOAL: symlink if nessessary */
+    /* GOAL: MOVE ALL FILES TO EXTERNAL DRIVES */

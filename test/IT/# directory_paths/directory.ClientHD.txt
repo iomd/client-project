@@ -1,0 +1,20 @@
+# hard drive storage :
+    +ClientHD                                       /*client projects*/
+        0-UNSORTED
+        1-BANDartist
+            bandname
+                00_PLAYLISTS
+                01_GFX&FOOTAGE
+                02_ARCHIVE
+                03_SESSIONS
+                04_PRESETS
+        2-SOLOartist
+            artistname
+                00_PLAYLISTS
+                01_GFX&FOOTAGE
+                02_ARCHIVE
+                03_SESSIONS
+                04_PRESETS
+    /* GOAL: symlink if nessessary */
+    /* GOAL: MOVE ALL FILES TO EXTERNAL DRIVES */
+    /Volumes/ClientHD/0 UNSORTED

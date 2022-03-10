@@ -1,0 +1,7 @@
+# hard drive storage :
+    +MovieHD                                        /*photo projects & video projects*/
+        img
+        vid
+        projects
+    /* GOAL: symlink if nessessary */
+    /* GOAL: MOVE ALL FILES TO EXTERNAL DRIVES */

@@ -1,0 +1,21 @@
+# hard drive storage :
+    +MusicHD                                        /*music*/
+        industry
+            genre
+                year
+                    artist
+                        bpm
+                            key
+        client
+            engineer
+                album artist
+                    genre
+                        year
+                            artist
+                                bpm
+                                    key
+        instrumental
+            producer
+                year
+    /* GOAL: symlink if nessessary */
+    /* GOAL: MOVE ALL FILES TO EXTERNAL DRIVES */
