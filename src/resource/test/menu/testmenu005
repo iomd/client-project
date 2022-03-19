@@ -1,0 +1,17 @@
+#!/usr/local/bin/python3
+from tkinter import *
+from tkinter import filedialog
+
+def openFile():
+    filepath = filedialog.askopenfilename(initialdir="/Users/icepitproductions/Desktop",
+                                          title="Open file")
+    file = open(filepath,'r')
+    print(file.read())
+    file.close()
+
+window = Tk()
+button = Button(text="Open",command=openFile)
+button.pack()
+window.mainloop()
+
+
